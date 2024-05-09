@@ -4,8 +4,7 @@
 Sou entusiasta sobre desenvolvimento de software! 
 Desde de adolescente tenho interesse em aprender Python e agora após tanto postergar devido outras prioridades estou aprendendo a desenvolver minhas aplicações através da plataforma DIO.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![Python](https://img.shields.io/badge/python-fff?style=for-the-badge&logo=python&logoColor=993399)
 
 ## Conecte-se comigo
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/R9Dev)
@@ -13,4 +12,6 @@ Desde de adolescente tenho interesse em aprender Python e agora após tanto post
 [![Gmail]("https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:romaotecgit@gmail.com)
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R9Dev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+
+![Python](https://img.shields.io/badge/python-fff?style=for-the-badge&logo=python&logoColor=993399)
